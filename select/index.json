@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ハッピーエンド",
+  "base_artist": "back number",
+  "createdAt": "2025-12-22T06:11:28.815901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "Haisuinonasa",
+      "has_synced": false,
+      "path": "select/01_ハッピーエンド_Haisuinonasa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_ハッピーエンド_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "ハイスイノナサ",
+      "has_synced": false,
+      "path": "select/03_ハッピーエンド_ハイスイノナサ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_ハッピーエンド_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/05_ハッピーエンド_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハッピーエンド - Happy End",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/06_ハッピーエンド_-_Happy_End_back_number.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハッピーエンド (instrumental)",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/07_ハッピーエンド_(instrumental)_back_number.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハッピーエンド (instrumental) - Happy End (Instrumental)",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/08_ハッピーエンド_(instrumental)_-_Happy_End_(Instrumental)_back_number.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハッピーエンド(レナッチーズ)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/09_ハッピーエンド(レナッチーズ)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/10_ハッピーエンド_back_number.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハッピーエンド",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/11_ハッピーエンド_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハッピーエンド - Happy End",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/12_ハッピーエンド_-_Happy_End_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーエンド",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーエンド_back_number.txt"
+    }
+  ]
+}
